@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DartsTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2024-07-07T00:00:05" hostname="MacBook-Air-67.local" time="0.146">
+  <properties/>
+  <testcase name="exactlyOnCentre()" classname="DartsTest" time="0.075"/>
+  <testcase name="onTheInnerCircle()" classname="DartsTest" time="0.001"/>
+  <testcase name="justWithinTheInnerCircle()" classname="DartsTest" time="0.002"/>
+  <testcase name="justWithinTheMiddleCircle()" classname="DartsTest" time="0.002"/>
+  <testcase name="asymmetricPositionBetweenTheInnerAndMiddleCircles()" classname="DartsTest" time="0.002"/>
+  <testcase name="nearTheCentre()" classname="DartsTest" time="0.001"/>
+  <testcase name="missedTarget()" classname="DartsTest" time="0.004"/>
+  <testcase name="justOutsideTheOuterCircle()" classname="DartsTest" time="0.001"/>
+  <testcase name="justOutsideTheMiddleCircle()" classname="DartsTest" time="0.003"/>
+  <testcase name="onTheMiddleCircle()" classname="DartsTest" time="0.005"/>
+  <testcase name="onTheOuterCircle()" classname="DartsTest" time="0.002"/>
+  <testcase name="justWithinTheOuterCircle()" classname="DartsTest" time="0.002"/>
+  <testcase name="justOutsideTheInnerCircle()" classname="DartsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
