@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GigasecondTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-07-11T21:19:13" hostname="MacBook-Air-67.local" time="0.134">
+  <properties/>
+  <testcase name="withFullTimeSpecified()" classname="GigasecondTest" time="0.074"/>
+  <testcase name="modernTime()" classname="GigasecondTest" time="0.003"/>
+  <testcase name="beforeEpochTime()" classname="GigasecondTest" time="0.014"/>
+  <testcase name="afterEpochTime()" classname="GigasecondTest" time="0.003"/>
+  <testcase name="withFullTimeSpecifiedAndDayRollover()" classname="GigasecondTest" time="0.001"/>
+  <testcase name="doesNotMutateInput()" classname="GigasecondTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
